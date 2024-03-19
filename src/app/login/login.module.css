@@ -1,0 +1,44 @@
+
+.background {
+  background-color: #FF8484;
+  width: 100vw; 
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login_container {
+  background-color: #FFFFFF;
+  padding: 1vw;
+  border-radius: 1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40vw;
+  height: 60vh;
+}
+
+.login_uptitle {
+  font-family: 'Inter';
+  font-size: large;
+  color: #EDC2C2;
+}
+
+.login_title {
+  font-family: 'sansita one';
+  font-size: xx-large;
+  color: #FF8484;
+}
+
+.field_div {
+  margin-top: 5vh;
+  background-color: #FFFFFF;
+  padding: 0.3vh 0.1vh 0.1vh 0.3vh;
+}
+
+.field_div_label {
+  border: 1px solid #FF8484;
+  padding: 0.3vh 0.1vh 0.1vh 0.3vh;
+  border-radius: 1vh;
+}

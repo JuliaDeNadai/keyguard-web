@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  background-color: rgb(252, 248, 244);
+  padding: 0.8vh;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.li {
+  padding: 0.8vh;
+}
